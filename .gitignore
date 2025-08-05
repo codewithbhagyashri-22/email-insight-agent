@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# Environment variables
+.env.*
+!.env.sample
+
+# Logs
+*.log
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# macOS / Linux
+.DS_Store
+.cache/
+*.swp
+
+# Python tools
+.mypy_cache/
+.pytest_cache/
+coverage/
+
+# VSCode / PyCharm / JetBrains
+.vscode/
+.idea/
+
+# PIP cache
+pip-wheel-metadata/
+
+# Google auth token files
+token.json
+credentials.json
+client_secret.json
