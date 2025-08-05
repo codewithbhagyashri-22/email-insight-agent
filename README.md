@@ -156,7 +156,7 @@ Example event created from email:
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute with attribution.
+This project is licensed under thethe [MIT License](./LICENSE). Feel free to use, modify, and distribute with attribution.
 
 ---
 
